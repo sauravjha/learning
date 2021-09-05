@@ -3,3 +3,4 @@
 ### https://learnxinyminutes.com/
 ### https://devdocs.io/
 ### https://codepen.io/
+### https://unicode-table.com/en/#basic-latin
