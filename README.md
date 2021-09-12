@@ -13,3 +13,5 @@ https://crop-circle.imageonline.co/
 
 https://colorhunt.co/
 https://emojipedia.org/
+https://www.favicon.cc/
+https://edit.cartoonize.net/image-manager#
