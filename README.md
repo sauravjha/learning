@@ -12,3 +12,4 @@ Picture:
 https://crop-circle.imageonline.co/
 
 https://colorhunt.co/
+https://emojipedia.org/
