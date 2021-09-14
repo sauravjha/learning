@@ -6,12 +6,12 @@
 ### https://unicode-table.com/en/#basic-latin
 
 Typing:
-https://www.keybr.com/
+### https://www.keybr.com/
 
 Picture:
-https://crop-circle.imageonline.co/
-
-https://colorhunt.co/
-https://emojipedia.org/
-https://www.favicon.cc/
-https://edit.cartoonize.net/image-manager#
+### https://crop-circle.imageonline.co/
+### https://colorhunt.co/
+### https://emojipedia.org/
+### https://www.favicon.cc/
+### https://edit.cartoonize.net/image-manager#
+### https://emojipedia.org/
