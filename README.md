@@ -4,6 +4,7 @@
 ### https://devdocs.io/
 ### https://codepen.io/
 ### https://unicode-table.com/en/#basic-latin
+### https://google-map-generator.com/
 
 Typing:
 ### https://www.keybr.com/
