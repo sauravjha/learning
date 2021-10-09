@@ -16,3 +16,8 @@ Picture:
 ### https://www.favicon.cc/
 ### https://edit.cartoonize.net/image-manager#
 ### https://emojipedia.org/
+
+### https://sneakpeekit.com/
+### https://balsamiq.com/
+
+
